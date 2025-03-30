@@ -1,0 +1,13 @@
+{"level":"info","message":"Server running on http://localhost:3051","service":"abacus-service"}
+{"level":"info","message":"Addition performed: 1 + 5 = 6","service":"abacus-service"}
+{"level":"info","message":"Addition performed: 1 + 2 = 3","service":"abacus-service"}
+{"level":"info","message":"Subtraction performed: 1 - 2 = -1","service":"abacus-service"}
+{"level":"info","message":"Addition performed: 5 + 6 = 11","service":"abacus-service"}
+{"level":"info","message":"Server running on http://localhost:3051","service":"abacus-service"}
+{"level":"info","message":"Multiplication performed: 8 * 2 = 16","service":"abacus-service"}
+{"level":"info","message":"Division performed: 8 / 2 = 4","service":"abacus-service"}
+{"level":"info","message":"Division performed: 5 / 2 = 2.5","service":"abacus-service"}
+{"level":"info","message":"Multiplication performed: 5 * 2 = 10","service":"abacus-service"}
+{"level":"info","message":"Multiplication performed: 5 * 2 = 10","service":"abacus-service"}
+{"level":"info","message":"Subtraction performed: 5 - 2 = 3","service":"abacus-service"}
+{"level":"info","message":"Addition performed: 5 + 2 = 7","service":"abacus-service"}

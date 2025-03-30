@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Abacus Calculator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>Abacus Calculator</h1>
+        <form id="calculatorForm">
+            <div class="form-group">
+                <label for="num1">Number 1:</label>
+                <input type="number" id="num1" required>
+            </div>
+            <div class="form-group">
+                <label for="num2">Number 2:</label>
+                <input type="number" id="num2" required>
+            </div>
+            
+              <!-- Add Button -->
+    <button type="button" id="addButton">Add</button>
+    
+    <!-- Subtract Button -->
+    <button type="button" id="subButton">Subtract</button>
+
+    <!-- Multiply Button -->
+    <button type="button" id="mulButton">Multiply</button>
+                
+    <!-- Divide Button -->
+    <button type="button" id="divButton">Divide</button>
+
+                <div class="result">
+                    <span id="result">Result will appear here.</span> <!-- Display result here -->
+                </div>
+            </div>
+        </form>
+    </div>
+    <script src="main.js"></script>
+    
+</body>
+</html>
